@@ -1,12 +1,6 @@
-# 🌿 臨床芳香療法與免疫學整合課程講義
+## 📊 [Page 1] 課程核心知識地圖 (Course Mindmap)
 
-歡迎來到本課程的線上視覺化講義系統。本課程旨在從現代免疫學與生物化學的根源出發，深入解析發炎機轉，並結合精油化學成分進行精準的雙向調控與臨床配方設計。
-
----
-
-## 📊 課程核心知識地圖 (Course Mindmap)
-
-```mermaid
+<div class="mermaid">
 mindmap
   root((臨床芳療與免疫))
     1_發炎根源機制
@@ -31,3 +25,7 @@ mindmap
       天然虎標萬金油DIY
     7_課程總結
       天然修復與免疫平衡
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
+<script>mermaid.initialize({startOnLoad: true});</script>
